@@ -1,0 +1,76 @@
+
+Example Stats for the 1-Bit Bruteforce Variant:
+
+Basic Stats:
+Flags obtained:            1000
+Total attempts needed:     2068
+Average attempts per flag: 2.068
+Median attempts per flag:  1
+
+Attempt Distribution:
+
+y: Number of Runs
+^
+|                                              
+|    #                                         
+|    #                                         
+|    #                                         
+|    #                                         
+|    #                                         
+|    #                                         
+|    #                                         
+|    #                                         
+|    #                                         
+|    #                                         
+|    #   -                                     
+|    #   #                                     
+|    #   #                                     
+|    #   #                                     
+|    #   #                                     
+|    #   #                                     
+|    #   #   #                                 
+|    #   #   #   -                             
+|    #   #   #   #   -                         
+-----|---|---|---|---|---|---|---|---|---,---|--> x: Attempts per flag
+x:   1   2   3   4   5   6   7   8   9  10  11 
+y: >99 >99 >99  66  43  21  12   4   4   0   1 
+
+
+
+Example Stats for the 4-Bit Bruteforce Variant:
+
+Basic Stats:
+Flags obtained:            1020
+Total attempts needed:     16802
+Average attempts per flag: 16.472549019607843
+Median attempts per flag:  12
+
+Attempt Distribution:
+
+y: Number of Runs
+^
+|                                                                                                                          
+|    #                                                                                                                     
+|    #       .                                                                                                             
+|    #   -   #                                                                                                             
+|    #   #   #                                                                                                             
+|    #   #   #                                                                                                             
+|    #   #   #   -                                                                                                         
+|    #   #   #   #                                                                                                         
+|    #   #   #   #   -                                                                                                     
+|    #   #   #   #   #                                                                                                     
+|    #   #   #   #   #   #       .                       .               .                                                 
+|    #   #   #   #   #   #   -   #                       #       #       #                                                 
+|    #   #   #   #   #   #   #   #   :       -           #   .   #       #                                                 
+|    #   #   #   #   #   #   #   #   #   #   #   -       #   #   #       #   -                                             
+|    #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #       #   #                                             
+|    #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   .   #   #       -           -                         
+|    #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   -   #           #       -                 
+|    #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   -       #   -   #   -       #     
+|    #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   :   #     
+|    #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   # 
+-----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|--> x: Attempts per flag
+x:   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30 ... (>30)
+y:  70  62  64  51  44  39  34  36  31  28  30  27  25  36  29  35  19  36  27  16  20  13  11  20  13  16  13  10  14   7 ... (144)
+
+

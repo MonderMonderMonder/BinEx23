@@ -1,0 +1,5 @@
+round 40156
+9.83 <= bits bruteforced <= 10.84
+32 flags in 40157 attempts
+Bit bruteforced (95% confidence): 10.29336387376873 ± 0.50
+

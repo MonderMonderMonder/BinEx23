@@ -1,0 +1,47 @@
+Linksammlung
+
+General Stuff:
+- Useful Online Tools:
+    https://defuse.ca/online-x86-assembler.htm
+    https://godbolt.org/
+    https://elixir.bootlin.com/linux/latest/source
+    https://cyberchef.org/
+- Docs & Cheatsheets:
+    https://xavierholt.github.io/cheatsheets/pwntools.html
+- Books:
+    https://ir0nstone.gitbook.io/
+
+By (BX related) Topic:
+- GOT/PLT Stuff:
+    https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html
+    https://stackoverflow.com/questions/58076539/plt-plt-got-what-is-different
+    https://maskray.me/blog/2021-08-29-all-about-global-offset-table
+    https://ir0nstone.gitbook.io/notes/types/stack/aslr/plt_and_got
+    https://ir0nstone.gitbook.io/notes/types/stack/aslr/ret2plt-aslr-bypass
+- Heap:
+    https://github.com/shellphish/how2heap
+    https://packetstormsecurity.com/files/40638/MallocMaleficarum.txt.html
+    https://heap-exploitation.dhavalkapil.com/
+    https://sourceware.org/glibc/wiki/MallocInternals
+
+Other:
+- pthread TCB bug (stack canary circumvention):
+    https://bugzilla.redhat.com/show_bug.cgi?id=1535038
+    https://sourceware.org/bugzilla/show_bug.cgi?id=22850
+    https://bases-hacking.org/tcb-overwrite.html
+    https://blog.talosintelligence.com/bypassing-miniupnp-stack-smashing/
+- Syscall Lookup Stuff:
+    https://elixir.bootlin.com/linux/latest/source
+    https://filippo.io/linux-syscall-table/
+- CTF Writeups:
+    https://github.com/ctfs
+    https://ctftime.org/
+    https://hxp.io/blog/
+- MISC (probably useful at some point):
+    https://stackoverflow.com/questions/49636591/what-is-tcache
+- RELRO:
+    https://ctf101.org/binary-exploitation/relocation-read-only/
+
+Project Idea CVEs:
+    https://vulmon.com/vulnerabilitydetails?qid=CVE-2020-24658&scoretype=cvssv3
+    https://developer.arm.com/documentation/ka005198/1-0/

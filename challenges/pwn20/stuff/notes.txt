@@ -1,0 +1,38 @@
+NEW WIP Concept:
+ - use cmd input to fill last 2*8 Byte of cmd buffer with siz fields for forged chunk: 0x21  --> prev in use set; fast bin for 0x20
+ - use f to free forged chunk
+ - use m to allocate forged struct in buf (size max 0x20 with header+allignment) --> puts addr now at beginning of buf
+ - use r to read from /dev/zero --> 0 bytes read, buf then printed with printf("%s", buf) --> leak puts@libc address to stdout
+ - [calculate address of system@libc and address of string "/bin/sh\x00" in libc using address of puts@libc]
+ - use e to override userdata of call struct with address of system@libc and address of string "/bin/sh\x00" in libc
+ - use call to call function in call struct --> system("/bin/sh\x00")
+
+
+
+WIP Concept:
+
+ - use cmd input to fill last 2*8 Byte of cmd buffer with siz fields for forged chunk: 0x101  --> prev in use set; small bin for 0x100
+ - use f to free forged chunk and add it to corresponding small bin
+ - use m to allocate forged struct in buf (size max 0x30 with header+allignment) --> remaining free chunk of size 0xD0 in last_remainder (still small chunk)
+ - use m again to allocate second struct in last_remainder (size max 0x30 with header +allignment)
+ - override 0x40 bytes in buf with readable bytes to reach userdata of second struct.
+   After this readable bytes are directly succeeded by address of puts.
+ - use r to print stuff from file that only contsins <0x40 readable bytes
+   when printf is invoked on buf with %s, output will only terminate after address of puts
+
+ - use f to free first chunk to add it to fastbin
+ - use m to once again allocate call in that chunk
+ - use leaked libc address to calculate location of function system() in glibc string /bin/sh in libc
+ - override userdata with those addresses
+ - use x to execute --> system("/bin/sh")
+
+
+(...) - old from here on...
+
+ - use e to forge chunk of size sizeof(struct closure) in buf on stack (NOTE: maybe put size and prev_size at end of cmd buf...)
+ - use cmd input to fill last 2*8 Byte of cmd buffer with prev_size and size fields for forged chunk
+ - use f to free forged chunk and add it to free list
+ - use m to allocate forged and freed chunk for call
+ - use x to print buf forged chunk with call struct and thus leak address of puts
+ - use e to override address to call in freed chunk with system, addr of arg with addr of string /bin/sh from libc
+ - use x to execute

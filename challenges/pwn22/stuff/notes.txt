@@ -1,0 +1,9 @@
+CONCEPT 1:
+ - allocate nodes of size:
+   0: 0x20, 1: 0x20, 2: 0x90, 3: 0x20, 4: 0x90, 5: 0x20
+ - free nodes 2 and 4
+ - write to note 0 and override size of node 1 so that next node by size is node 3
+ - free node 1 -> free chunk now includes node 2
+ - allocate node to freed chunk
+ - dump content of new node -> leaks heap and libc from fd/bw pointers of node 2
+ - ...continue with leaked info

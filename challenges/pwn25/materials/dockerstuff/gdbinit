@@ -1,0 +1,25 @@
+set debuginfod enabled on
+
+define init-peda
+source /root/peda/peda.py
+end
+document init-peda
+Initializes the PEDA (Python Exploit Development Assistant for GDB) framework
+end
+
+define init-pwndbg
+source /root/.gdbinit_pwndbg
+end
+document init-pwndbg
+Initializes PwnDBG
+end
+
+define init-gef
+source /root/.gdbinit-gef.py
+end
+document init-gef
+Initializes GEF (GDB Enhanced Features)
+end
+
+symbol-file /usr/lib/libc.so.6
+

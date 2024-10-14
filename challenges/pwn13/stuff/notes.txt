@@ -1,0 +1,8 @@
+CONCEPT 1:
+  use negative number to read too much data
+  write to null byte of stack caqrnary of main using ofl (this will only be checked once main returns)
+  it is now considered part of the string
+  now leak it
+  Since parent process lives on, we can now use it when reconnecting
+  use same trick to override full carnary with correct value
+  use partial override of return address to handle to jump to correct addr (PIE is enabled!)

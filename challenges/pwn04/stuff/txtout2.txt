@@ -1,0 +1,7409 @@
+Versuch 
+0x0
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\x00\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\x00\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x2
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\x00\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x3
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\x00\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x4
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\x01\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x5
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\x01\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x6
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\x01\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x7
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\x02\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x8
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\x02\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x9
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\x02\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xa
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \x03\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xb
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\x03\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xc
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\x03\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xd
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\x04\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xe
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\x04\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xf
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\x04\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x10
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\x05\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x11
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\x05\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x12
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\x05\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x13
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\x05\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x14
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\x06\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x15
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\x06\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x16
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\x06\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x17
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\x07\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x18
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\x07\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x19
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\x07\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \x08\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\x08\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\x08\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\t\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\t\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\t\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x20
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\n\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'Segmentation fault\n'
+
+
+Versuch 
+0x21
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\n\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'Segmentation fault\n'
+
+
+Versuch 
+0x22
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\n\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'Segmentation fault\n'
+
+
+Versuch 
+0x23
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\n\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'Segmentation fault\n'
+
+
+Versuch 
+0x24
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\x0b\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x25
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\x0b\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x26
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\x0b\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x27
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\x0c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x28
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\x0c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x29
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\x0c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x2a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \r\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x2b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\r\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x2c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\r\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x2d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\x0e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x2e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\x0e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x2f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\x0e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x30
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\x0f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x31
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\x0f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x32
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\x0f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x33
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\x0f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x34
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\x10\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x35
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\x10\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x36
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\x10\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x37
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\x11\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x38
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\x11\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x39
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\x11\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x3a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \x12\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x3b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\x12\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x3c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\x12\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x3d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\x13\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x3e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\x13\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x3f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\x13\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x40
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\x14\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x41
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\x14\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x42
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\x14\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x43
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\x14\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x44
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\x15\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x45
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\x15\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x46
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\x15\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x47
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\x16\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x48
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\x16\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x49
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\x16\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x4a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \x17\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x4b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\x17\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x4c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\x17\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x4d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\x18\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x4e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\x18\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x4f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\x18\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x50
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\x19\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x51
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\x19\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x52
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\x19\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x53
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\x19\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x54
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\x1a\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x55
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\x1a\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x56
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\x1a\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x57
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\x1b\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x58
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\x1b\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x59
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\x1b\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x5a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \x1c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x5b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\x1c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x5c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\x1c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x5d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\x1d\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x5e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\x1d\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x5f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\x1d\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x60
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\x1e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x61
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\x1e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x62
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\x1e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x63
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\x1e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x64
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\x1f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x65
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\x1f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x66
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\x1f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x67
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0 \xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x68
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80 \xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x69
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0 \xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x6a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' !\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x6b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p!\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x6c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0!\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x6d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10"\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x6e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`"\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x6f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0"\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x70
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00#\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x71
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P#\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x72
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0#\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x73
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0#\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x74
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@$\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x75
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90$\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x76
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0$\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x77
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0%\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x78
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80%\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x79
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0%\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x7a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' &\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x7b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p&\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x7c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0&\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x7d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b"\x10'\xff\xff\xff\x7f\x00\x00"
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x7e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b"`'\xff\xff\xff\x7f\x00\x00"
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x7f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b"\xb0'\xff\xff\xff\x7f\x00\x00"
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x80
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00(\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x81
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P(\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x82
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0(\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x83
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0(\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x84
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@)\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x85
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90)\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x86
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0)\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x87
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0*\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x88
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80*\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x89
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0*\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x8a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' +\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x8b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p+\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x8c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0+\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x8d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10,\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x8e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`,\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x8f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0,\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x90
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00-\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x91
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P-\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x92
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0-\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x93
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0-\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x94
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@.\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x95
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90.\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x96
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0.\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x97
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0/\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x98
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80/\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x99
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0/\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x9a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' 0\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x9b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p0\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x9c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc00\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x9d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x101\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x9e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`1\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x9f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb01\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xa0
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x002\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xa1
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P2\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xa2
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa02\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xa3
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf02\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xa4
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@3\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xa5
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x903\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xa6
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe03\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xa7
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'04\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xa8
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x804\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xa9
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd04\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xaa
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' 5\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xab
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p5\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xac
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc05\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xad
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x106\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xae
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`6\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xaf
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb06\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xb0
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x007\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xb1
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P7\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xb2
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa07\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xb3
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf07\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xb4
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@8\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xb5
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x908\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xb6
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe08\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xb7
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'09\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xb8
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x809\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xb9
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd09\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xba
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' :\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xbb
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p:\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xbc
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0:\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xbd
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10;\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xbe
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`;\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xbf
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0;\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xc0
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00<\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xc1
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P<\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xc2
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0<\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xc3
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0<\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xc4
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@=\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xc5
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90=\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xc6
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0=\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xc7
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0>\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xc8
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80>\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xc9
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0>\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xca
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' ?\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xcb
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p?\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xcc
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0?\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xcd
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10@\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xce
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`@\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xcf
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0@\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xd0
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00A\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xd1
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'PA\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xd2
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0A\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xd3
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0A\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xd4
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@B\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xd5
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90B\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xd6
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0B\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xd7
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0C\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xd8
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80C\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xd9
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0C\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xda
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' D\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xdb
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'pD\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xdc
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0D\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xdd
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10E\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xde
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`E\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xdf
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0E\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xe0
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00F\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xe1
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'PF\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xe2
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0F\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xe3
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0F\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xe4
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@G\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xe5
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90G\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xe6
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0G\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xe7
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0H\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xe8
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80H\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xe9
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0H\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xea
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' I\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xeb
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'pI\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xec
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0I\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xed
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10J\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xee
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`J\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xef
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0J\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xf0
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00K\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xf1
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'PK\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xf2
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0K\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xf3
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0K\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xf4
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@L\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xf5
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90L\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xf6
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0L\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xf7
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0M\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xf8
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80M\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xf9
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0M\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xfa
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' N\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xfb
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'pN\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xfc
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0N\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xfd
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10O\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xfe
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`O\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0xff
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0O\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x100
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00P\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x101
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'PP\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x102
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0P\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x103
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0P\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x104
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@Q\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x105
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90Q\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x106
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0Q\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x107
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0R\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x108
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80R\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x109
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0R\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x10a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' S\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x10b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'pS\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x10c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0S\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x10d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10T\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x10e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`T\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x10f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0T\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x110
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00U\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x111
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'PU\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x112
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0U\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x113
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0U\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x114
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@V\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x115
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90V\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x116
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0V\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x117
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0W\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x118
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80W\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x119
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0W\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x11a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' X\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x11b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'pX\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x11c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0X\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x11d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10Y\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x11e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`Y\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x11f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0Y\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x120
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00Z\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x121
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'PZ\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x122
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0Z\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x123
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0Z\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x124
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@[\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x125
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90[\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x126
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0[\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x127
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\\\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x128
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\\\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x129
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\\\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x12a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' ]\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x12b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p]\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x12c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0]\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x12d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10^\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x12e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`^\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x12f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0^\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x130
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00_\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x131
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P_\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x132
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0_\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x133
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0_\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x134
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@`\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x135
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90`\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x136
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0`\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x137
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0a\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x138
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80a\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x139
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0a\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x13a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' b\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x13b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'pb\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x13c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0b\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x13d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x13e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x13f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x140
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00d\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x141
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'Pd\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x142
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0d\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x143
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0d\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x144
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x145
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x146
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x147
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x148
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x149
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x14a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' g\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x14b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'pg\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x14c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0g\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x14d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10h\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x14e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`h\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x14f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0h\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x150
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00i\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x151
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'Pi\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x152
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0i\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x153
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0i\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x154
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@j\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x155
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90j\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x156
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0j\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x157
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0k\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x158
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80k\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x159
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0k\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x15a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' l\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x15b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'pl\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x15c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0l\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x15d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10m\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x15e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`m\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x15f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0m\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x160
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00n\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x161
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'Pn\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x162
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0n\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x163
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0n\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x164
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@o\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x165
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90o\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x166
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0o\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x167
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0p\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x168
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80p\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x169
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0p\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x16a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' q\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x16b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'pq\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x16c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0q\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x16d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10r\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x16e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`r\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x16f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0r\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x170
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00s\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x171
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'Ps\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x172
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0s\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x173
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0s\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x174
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@t\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x175
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90t\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x176
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0t\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x177
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0u\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x178
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80u\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x179
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0u\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x17a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' v\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x17b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'pv\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x17c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0v\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x17d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10w\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x17e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`w\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x17f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0w\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x180
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00x\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x181
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'Px\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x182
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0x\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x183
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0x\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x184
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@y\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x185
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90y\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x186
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0y\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x187
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0z\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x188
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80z\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x189
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0z\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x18a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' {\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x18b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p{\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x18c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0{\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x18d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10|\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x18e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`|\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x18f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0|\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x190
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00}\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x191
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P}\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x192
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0}\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x193
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0}\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x194
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@~\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x195
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90~\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x196
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0~\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x197
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\x7f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x198
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\x7f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x199
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\x7f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x19a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \x80\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x19b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\x80\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x19c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\x80\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x19d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\x81\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x19e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\x81\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x19f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\x81\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1a0
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\x82\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1a1
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\x82\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1a2
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\x82\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1a3
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\x82\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1a4
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\x83\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1a5
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\x83\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1a6
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\x83\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1a7
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\x84\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1a8
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\x84\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1a9
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\x84\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1aa
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \x85\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1ab
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\x85\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1ac
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\x85\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1ad
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\x86\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1ae
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\x86\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1af
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\x86\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1b0
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\x87\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1b1
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\x87\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1b2
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\x87\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1b3
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\x87\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1b4
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\x88\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1b5
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\x88\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1b6
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\x88\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1b7
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\x89\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1b8
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\x89\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1b9
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\x89\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1ba
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \x8a\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1bb
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\x8a\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1bc
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\x8a\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1bd
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\x8b\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1be
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\x8b\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1bf
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\x8b\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1c0
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\x8c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1c1
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\x8c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1c2
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\x8c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1c3
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\x8c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1c4
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\x8d\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1c5
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\x8d\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1c6
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\x8d\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1c7
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\x8e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1c8
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\x8e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1c9
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\x8e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1ca
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \x8f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1cb
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\x8f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1cc
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\x8f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1cd
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\x90\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1ce
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\x90\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1cf
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\x90\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1d0
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\x91\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1d1
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\x91\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1d2
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\x91\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1d3
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\x91\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1d4
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\x92\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1d5
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\x92\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1d6
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\x92\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1d7
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\x93\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1d8
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\x93\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1d9
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\x93\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1da
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \x94\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1db
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\x94\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1dc
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\x94\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1dd
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\x95\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1de
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\x95\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1df
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\x95\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1e0
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\x96\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1e1
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\x96\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1e2
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\x96\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1e3
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\x96\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1e4
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\x97\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1e5
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\x97\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1e6
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\x97\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1e7
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\x98\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1e8
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\x98\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1e9
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\x98\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1ea
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \x99\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1eb
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\x99\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1ec
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\x99\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1ed
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\x9a\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1ee
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\x9a\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1ef
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\x9a\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1f0
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\x9b\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1f1
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\x9b\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1f2
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\x9b\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1f3
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\x9b\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1f4
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\x9c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1f5
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\x9c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1f6
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\x9c\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1f7
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\x9d\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1f8
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\x9d\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1f9
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\x9d\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1fa
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \x9e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1fb
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\x9e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1fc
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\x9e\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1fd
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\x9f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1fe
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\x9f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x1ff
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\x9f\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x200
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\xa0\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x201
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\xa0\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x202
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\xa0\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x203
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\xa0\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x204
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\xa1\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x205
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\xa1\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x206
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\xa1\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x207
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\xa2\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x208
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\xa2\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x209
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\xa2\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x20a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \xa3\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x20b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\xa3\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x20c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\xa3\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x20d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\xa4\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x20e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\xa4\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x20f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\xa4\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x210
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\xa5\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x211
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\xa5\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x212
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\xa5\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x213
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\xa5\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x214
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\xa6\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x215
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\xa6\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x216
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\xa6\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x217
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\xa7\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x218
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\xa7\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x219
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\xa7\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x21a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \xa8\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x21b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\xa8\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x21c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\xa8\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x21d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\xa9\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x21e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\xa9\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x21f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\xa9\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x220
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\xaa\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x221
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\xaa\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x222
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\xaa\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x223
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\xaa\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x224
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\xab\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x225
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\xab\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x226
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\xab\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x227
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\xac\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x228
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\xac\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x229
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\xac\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x22a
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b' \xad\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x22b
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'p\xad\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x22c
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xc0\xad\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x22d
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x10\xae\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x22e
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'`\xae\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x22f
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xb0\xae\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x230
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x00\xaf\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x231
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'P\xaf\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x232
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xa0\xaf\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x233
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xf0\xaf\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x234
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'@\xb0\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x235
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x90\xb0\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x236
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xe0\xb0\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x237
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'0\xb1\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x238
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\x80\xb1\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+
+
+Versuch 
+0x239
+
+
+[+] Opening connection to localhost on port 13704: Done
+Addr: 
+b'\xd0\xb1\xff\xff\xff\x7f\x00\x00'
+
+
+b'\x1b[36mpls gief inpt: \x1b[33m'
+b'\x1b[0m'
+

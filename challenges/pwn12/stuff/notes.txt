@@ -1,0 +1,53 @@
+Concept:
+  Use concept from pwn11
+  But instead of writing win() function, write address to exit@got.plt (1 in 8192 attempts)
+  Also override address of exit@got.plt with address of system, execve or similar (partial override, 1 in 4 to 1 in 16)
+  Also modify libc function in rdi in order to point to /bin/sh in libc instead of libc function.
+
+UPDATE:
+  Use concept from pwn11
+  write /bin/sh to .data section at 0x4033c8
+  then use override exit() got.plt entry with system
+  then jump to 0x4033c8 (mov addres to edi, jump to rax)
+
+UPDATE:
+  Use concept from pwn11
+  also override printf got.plt entry with system address (partial override)
+  make sure /bin/sh\x00 is at beginning of buffer
+  jump to 0x401161 which calls printf on buffer
+
+UPDATE:
+  Use concept from pwn11
+  also override printf got.plt entry with system address (partial override)
+  make sure /bin/sh\x00 is at beginning of buffer
+  jump back to main, read string /bin/get_flag\n into buffer, wait until printf is called.
+
+UPDATE:
+  Use concept from pwn11
+  leak libc location during first invocation of main
+  Jump back to main
+  use stack and libc location to simply write system to return address of main and use buffer for /bin/get_flag string
+    - or alternatively create ropchain
+
+
+ISSUE:
+  Almost works, but in second iteration stack has new position.
+  Solution: Add third iteration and jump into main after rsp is modified.
+  Old and new stack will overlap.
+  => already put desired rop chain in buffer
+  => Allign so that jump hits ret addr. continue.
+
+
+UPDATE:
+  Work without stack leak:
+  write 401091 as return address, which is basically main, but after push rbp
+  this ensures stack allignment
+  also override got entry of printf with system libc addr.
+  then input /bin/get_flag to buf.
+
+ISSUE:
+  might need third iteration.
+  need return address for this!! (Stack leak required. :( )
+
+
+

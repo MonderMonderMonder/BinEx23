@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#echo "HERE!" | nc localhost 12345
+echo flag_0123456789abcdef0123456789abcdef

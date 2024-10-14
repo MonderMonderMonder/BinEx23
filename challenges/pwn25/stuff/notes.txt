@@ -1,0 +1,174 @@
+Security options:
+    Arch:     amd64-64-little
+    RELRO:    Full RELRO
+    Stack:    Canary found
+    NX:       NX enabled
+    PIE:      PIE enabled
+
+
+Some Notes about exit hooks and how we could use them:
+ - The pointer __exit_funcs is located at offset 0x1db760 in libc 2.37
+ - this is within libc's data section (writable)
+ - it points to initial, which is a list of exit functions in libc's .rodata section
+
+
+Useful code snippet from exit.h:
+	enum
+	{
+	  ef_free,	/* `ef_free' MUST be zero!  */
+	  ef_us,
+	  ef_on,
+	  ef_at,
+	  ef_cxa
+	};
+
+	struct exit_function
+	  {
+		/* `flavour' should be of type of the `enum' above but since we need
+		   this element in an atomic operation we have to use `long int'.  */
+		long int flavor;
+		union
+		  {
+		void (*at) (void);
+		struct
+		  {
+			void (*fn) (int status, void *arg);
+			void *arg;
+		  } on;
+		struct
+		  {
+			void (*fn) (void *arg, int status);
+			void *arg;
+			void *dso_handle;
+		  } cxa;
+		  } func;
+	  };
+	struct exit_function_list
+	  {
+		struct exit_function_list *next;
+		size_t idx;
+		struct exit_function fns[32];
+	  };
+
+	extern struct exit_function_list *__exit_funcs attribute_hidden;
+	extern struct exit_function_list *__quick_exit_funcs attribute_hidden;
+	extern uint64_t __new_exitfn_called attribute_hidden;
+
+Notes about this:
+ - __exit_funcs is a pointer to a struct of type exit_function_list
+ - we can fake such a struct in the heap.
+ - hence, if we manage to override the pointer in the data section, we can 'register' additional functions to be called on exit
+
+How to fake the struct exit_function_list node (assuming we leaked libc and heap addresses already):
+ - the first 8 bytes in the exit_function_list struct point to the next node.
+   we can set this value to &initial (at offset 0x1dd220 in libc 2.37, in .rodata)
+ - the next 8 bytes indicate the number of functions in this list node
+   The value 1 should be sufficient here
+ - Then follows an array of of length 32 (32*8*4 bytes) of type struct exit_function
+   This is where the function pointers, arguments and metainformation lives
+
+How to fake a struct exit_function:
+ - the first 8 bytes are an enum value indicating the 'flavor'
+   aka which type of exit_function node we are dealing with
+   the rest of the struct ist implemented as a union
+   the value ef_cxa (value 4) seems most useful here, as it indicates a function pointer of type void (*fn) (void *arg, int status);
+   this is compatible with system, as the first argument is a pointer and we can ignore the rest
+ - the next 8 bytes are the actual function pointer
+   this pointer is however mangled using the pointer guard, which is stored in the thread local storage at offset 0x30
+   let's just assume we have this value already (more on its leak later)
+   once we have the pointer guard we can just take system()'s libc address and mangle it, so that a valid pointer will be called in the end
+ - the next 8 bytes are the void *arg pointer, which will point to our string '/bin/sh' or '/bin/get_flag' (e.g. on the heap or the preexistent one from libc)
+ - the last 8 bytes are the coid *dso_handle pointer
+   this one should bear no further relevance for our exploit
+
+  alternatively just use a one gadget in combination with ef_at (value 3)
+
+How to get the pointer guard:
+ - There are two ways we could get the pointer guard
+ - The obvious one is to simply leak the value from the thread local storage (TLS)
+   this would however require us to leak the location and content of the TLS
+ - The second one is not quite so obvious, but better fits the situation:
+    - the 'static struct exit_function_list initial' consistently contains the same data function pointers to be called after all other exit hooks
+    - the first one of those functions is _dl_fini, which is located at offset 0x6f4d70 within libc 2.37
+    - the pointer demangling happens by first performing certain shift-operations on the pointer and then performing an xor with the pointer guard
+    - notably the xor happens at the very end
+    - also note that (A xor B) xor A = B
+    - hence, if we take the same pointer and perform the same shift-operations on it, we can just cor it to the mangled pointer and get the value of the pointer guard
+    - we can then perform the same arithmetic operations on system()'s libc address and xor it to the retrieved pointer guard
+    - we thus get a correctly mangled pointer to use in the exit_function struct
+    - hence a leak of an already mangled pointer is sufficient
+
+How to leak a mangled pointer:
+ - Assume we manage to fake a chunk in libc's data section
+ - edit() in vuln allows us to modify the length without checking for size limits, which is also not detected by the integrity check using SHA256 due to the way it's implemented
+ - we can then read an arbitrary number of bytes from memory using the manipulated length
+ - since the .rodata section is after the .data section, we can hence leak the mangled pointers from 'static struct exit_function_list initial'
+
+
+How mangling works:
+ - In the following you can see the actual mangling/demangling code
+ - SNIPPET FROM pointer_guard.h form libc 2.37
+
+		#if ISV_IN (rtld)
+		/* We cannot use the thread descriptor because in ld.so we use setjmp
+		   earlier than the descriptor is initialized.  */
+		# ifdef __ASSEMBLER__
+		#  define PTR_MANGLE(reg)       xor __pointer_chk_guard_local(%rip), reg;    \
+										rol $2*LP_SIZE+1, reg
+		#  define PTR_DEMANGLE(reg)     ror $2*LP_SIZE+1, reg;                       \
+										xor __pointer_chk_guard_local(%rip), reg
+		# else
+		#  define PTR_MANGLE(reg)       asm ("xor __pointer_chk_guard_local(%%rip), %0\n" \
+											 "rol $2*" LP_SIZE "+1, %0"                   \
+											 : "=r" (reg) : "0" (reg))
+		#  define PTR_DEMANGLE(reg)     asm ("ror $2*" LP_SIZE "+1, %0\n"                 \
+											 "xor __pointer_chk_guard_local(%%rip), %0"   \
+											 : "=r" (reg) : "0" (reg))
+		# endif
+		#else
+		# ifdef __ASSEMBLER__
+		#  define PTR_MANGLE(reg)       xor %fs:POINTER_GUARD, reg;                   \
+										rol $2*LP_SIZE+1, reg
+		#  define PTR_DEMANGLE(reg)     ror $2*LP_SIZE+1, reg;                        \
+										xor %fs:POINTER_GUARD, reg
+		# else
+		#  define PTR_MANGLE(var)       asm ("xor %%fs:%c2, %0\n"                     \
+											 "rol $2*" LP_SIZE "+1, %0"               \
+											 : "=r" (var)                             \
+											 : "0" (var),                             \
+											   "i" (POINTER_GUARD))
+		#  define PTR_DEMANGLE(var)     asm ("ror $2*" LP_SIZE "+1, %0\n"             \
+											 "xor %%fs:%c2, %0"                       \
+											 : "=r" (var)                             \
+											 : "0" (var),                             \
+											   "i" (POINTER_GUARD))
+		# endif
+		#endif
+
+How to override the __exit_funcs pointer in libc's .data section:
+ - use house of mind for fastbins
+ - see https://github.com/shellphish/how2heap/blob/e5be757814e10f3c89f136d7ba86398bfd9cfdcc/glibc_2.35/house_of_mind_fastbin.c
+
+
+How to allocate chunk in libc's .data section to leak mangled pointers:
+ - Look for a properly alligned value that corresponds to the size of a fastbin or smallbin in libc's data section
+ - Use a fake chunk and free it to manipulate a bin (tcache if smallbin, since we want to avoid fd/bw ptr checks)
+ - Allocate chunk again, so that manipulated next pointer now is first element in bin and points to appropriate address in libc .data section
+ - Allocate chunk in libc .data section
+ - Use chunk to leak mangled pointers by enlarging reach of read via change of length with edit
+ - just read until appropriate spot in .rodata section is reached
+
+How to get fake chunk:
+ - Use overflow on heap (using size manipulation in edit) to manipulate next chunks
+ - craft appropriate fake chunk using leaked heap and libc addresses
+
+(- note that negative indices for fields array (in .data section of vuln) are also potentially possible)
+
+How to leak heap and libc addresses:
+ - allocate a chunk
+ - allocate some more chunks and free them so that fd/bw ptrs are set
+ - use length manipulation in edit to read from other chunks using first chunk
+ - => libc via main arena, and heap addresses via chunks in bins - via fd/bw ptrs
+
+
+

